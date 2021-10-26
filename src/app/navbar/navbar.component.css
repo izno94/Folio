@@ -1,0 +1,31 @@
+.logoNav{
+    width: 40px;
+    height: 40px;
+}
+.btn-circle {
+    border: solid black 1px;
+    border-radius: 90%;
+    width: 40px;
+    height: 40px;
+
+  }
+input{
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border: solid #18191A 1px;
+}
+nav{
+    justify-content: space-around;
+    background-color: #18191A;
+}
+.photoUser{
+    width: 28px;
+    height: 28px;
+    border-radius: 90%;
+
+}
+.padding {
+    padding: 5px;
+}
